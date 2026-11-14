@@ -1,0 +1,13 @@
+Loss after one step: 2.1536
+Loss after one step: 1.8938
+Loss after one step: 1.0859
+Loss after one step: 2.4460
+
+loss = -log(1/7) = log(7) ≈ 1.9459
+[mc]
+power rule : log(aᵇ) = b•log(a)
+loss = -log(1/7)
+= -log(7⁻¹)
+= -(-log(7))
+= log(7) 
+≈ 1.9459
