@@ -1,3 +1,4 @@
+Sample outputs (4 executions)
 Loss after one step: 2.1536
 Loss after one step: 1.8938
 Loss after one step: 1.0859
@@ -11,3 +12,6 @@ loss = -log(1/7)
 = -(-log(7))
 = log(7) 
 ≈ 1.9459
+
+* The value 1.9459 is the natural log ln(7), not the base-10 log.
+* In machine learning, "log" almost always means natural log (ln).
