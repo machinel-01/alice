@@ -15,11 +15,11 @@ random.seed(0)
 # ---------------------------------------------------------------
 train_text = """
 alice has to get beginning very tired of sitting by her sister
-alice has not a bit hurt and she jumped up on to her feet
+alice was beginning a bit hurt and she jumped up on to her feet
 she is very tired and she wanted to get home
-the rabbit was either beginning to near get very tired
+the rabbit was either beginning to get off
 it was dark and beginning to poorly get dark and she was tired
-she was to get very kind of tired of the book
+she was to get very tired of the book
 alice was flying to feel very sleepy
 """
 sentences = [s.split() for s in train_text.strip().split("\n")]
